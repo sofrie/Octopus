@@ -10,6 +10,7 @@ import widgets from '../views/widgets'
 // UI Components
 import alerts from '../views/ui-components/alerts'
 import badges from '../views/ui-components/badges'
+import badgePage from '../views/ui-components/badgePage'
 import breadcrumbs from '../views/ui-components/breadcrumbs'
 import buttons from '../views/ui-components/buttons'
 import carousel from '../views/ui-components/carousel'
@@ -22,6 +23,7 @@ import tables from '../views/ui-components/tables'
 import typography from '../views/ui-components/typography'
 import tabs from '../views/ui-components/tabs'
 import tooltips from '../views/ui-components/tooltips'
+import profile from '../views/ui-components/profile'
 
 // Form Components
 import forms from '../views/forms/forms'
@@ -76,6 +78,11 @@ export default new Router({
     path: '/badges',
     name: 'badges',
     component: badges
+  },
+  {
+    path: '/badgePage',
+    name: 'badgePage',
+    component: badgePage
   },
   {
     path: '/breadcrumbs',
@@ -141,5 +148,10 @@ export default new Router({
     path: '/forms',
     name: 'forms',
     component: forms
+  },
+  {
+    path: '/profile',
+    name: 'profile',
+    component: profile
   }]
 })

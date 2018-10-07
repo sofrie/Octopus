@@ -37,6 +37,7 @@
               <li class="nav-item"><router-link class="nav-link" to="/alerts/">Alerts</router-link></li>
               <li class="nav-item"><router-link class="nav-link" to="/buttons/">Button</router-link></li>
               <li class="nav-item"><router-link class="nav-link" to="/badges/">Badges</router-link></li>
+              <li class="nav-item"><router-link class="nav-link" to="/badgePage/">BadgePage</router-link></li>
               <li class="nav-item"><router-link class="nav-link" to="/breadcrumbs/">Breadcrumbs</router-link></li>
               <li class="nav-item"><router-link class="nav-link" to="/carousel/">Carousel</router-link></li>
               <li class="nav-item"><router-link class="nav-link" to="/dropdowns/">Dropdowns</router-link></li>
