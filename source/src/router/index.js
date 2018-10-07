@@ -22,6 +22,7 @@ import tables from '../views/ui-components/tables'
 import typography from '../views/ui-components/typography'
 import tabs from '../views/ui-components/tabs'
 import tooltips from '../views/ui-components/tooltips'
+import profile from '../views/ui-components/profile'
 
 // Form Components
 import forms from '../views/forms/forms'
@@ -141,5 +142,10 @@ export default new Router({
     path: '/forms',
     name: 'forms',
     component: forms
+  },
+  {
+    path: '/profile',
+    name: 'profile',
+    component: profile
   }]
 })
