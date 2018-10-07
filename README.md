@@ -4,8 +4,8 @@ Sample project about octopus and Japan trip
 Using Star Admin Free Vue Admin Template (from https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template.git)
 ### Usage
 
-# install dependencies
-npm install
+# install dependencies 
+npm install (go to folder source)
 
 # serve with hot reload at localhost:8080
 npm run dev

@@ -10,6 +10,7 @@ import widgets from '../views/widgets'
 // UI Components
 import alerts from '../views/ui-components/alerts'
 import badges from '../views/ui-components/badges'
+import badgePage from '../views/ui-components/badgePage'
 import breadcrumbs from '../views/ui-components/breadcrumbs'
 import buttons from '../views/ui-components/buttons'
 import carousel from '../views/ui-components/carousel'
@@ -76,6 +77,11 @@ export default new Router({
     path: '/badges',
     name: 'badges',
     component: badges
+  },
+  {
+    path: '/badgePage',
+    name: 'badgePage',
+    component: badgePage
   },
   {
     path: '/breadcrumbs',
