@@ -14,8 +14,8 @@
         </tr>
     </table>
     <div align="center">
-        <div class="profile-image"> 
-            <img src="../../assets/images/faces/face4.jpg" alt="image"/> 
+        <div class="profile-image">
+            <img src="../../assets/images/faces/face4.jpg" alt="image"/>
         </div>
         <div class="profile-name">
             <p class="name"><b>Richard V.Welsh</b></p>
@@ -27,22 +27,22 @@
             <tr>
                 <td><h3>Email</h3></td>
                 <td><h3>:</h3></td>
-                <td><h3>richard@company.com</h3></td>                
+                <td><h3>richard@company.com</h3></td>
             </tr>
             <tr>
                 <td><h3>Phone Number</h3></td>
                 <td><h3>:</h3></td>
-                <td><h3>+81 3-3770-2301</h3></td>                
+                <td><h3>+81 3-3770-2301</h3></td>
             </tr>
              <tr>
                 <td><h3>Address</h3></td>
                 <td><h3>:</h3></td>
-                <td><h3>Udagawacho, Shibuya, Tokyo 150-0042, Japan</h3></td>                
+                <td><h3>Udagawacho, Shibuya, Tokyo 150-0042, Japan</h3></td>
             </tr>
              <tr>
                 <td><h3>About</h3></td>
                 <td><h3>:</h3></td>
-                <td><h3>it's personal, myself and I</h3></td>                
+                <td><h3>it's personal, myself and I</h3></td>
             </tr>
             <tr>
                 <td colspan="3" align="center">
