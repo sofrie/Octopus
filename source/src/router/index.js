@@ -24,6 +24,7 @@ import typography from '../views/ui-components/typography'
 import tabs from '../views/ui-components/tabs'
 import tooltips from '../views/ui-components/tooltips'
 import profile from '../views/ui-components/profile'
+import editprofile from '../views/ui-components/editprofile'
 
 // Form Components
 import forms from '../views/forms/forms'
@@ -153,5 +154,10 @@ export default new Router({
     path: '/profile',
     name: 'profile',
     component: profile
+  },
+  {
+    path: '/editprofile',
+    name: 'editprofile',
+    component: editprofile
   }]
 })
