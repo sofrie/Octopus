@@ -21,12 +21,7 @@
   </section>
 
 </template>
-
-<script lang="js">
-export default {
-  name: 'badgePage'
-}
-</script>
+<script src="./js/badge-page.js"></script>
 
 <style scoped lang="scss">
   .badges {
